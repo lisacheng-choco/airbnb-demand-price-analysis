@@ -1,5 +1,5 @@
 # The Application of Airbnb Dataset
-In this project, I used the Airbnb dataset from [Iside Airbnb](http://insideairbnb.com/get-the-data.html) to complete some interesting applications by using analysis skills and machine learning algorithms. I selected two topics:
+In this project, I used the Airbnb dataset from [Inside Airbnb](http://insideairbnb.com/get-the-data.html) to complete some interesting applications by using analysis skills and machine learning algorithms. I selected two topics:
 
 - [The Impact of COVID-19 on Airbnb Market in Taipei: Exploratory Analysis](https://github.com/lisacheng-choco/airbnb-demand-price-analysis/blob/master/airbnb_covid19_analysis.ipynb): Exploratory analysis of the Airbnb dataset complied in 2020 and 2019, focusing on the impact of COVID-19 on the rental market in Taipei, including the analysis of the number of rental demand, booking rate, and price strategy.
 - [Predicting Airbnb Listing Prices in Taipei](https://github.com/lisacheng-choco/airbnb-demand-price-analysis/blob/master/airbnb_pricing_prediction.ipynb): A model to predict the price of a given Airbnb listing in Taipei using statistical analysis tools and machine learning algorithms. Identified the optimal model that a host can set a reasonable price based on the properties of a listing.
